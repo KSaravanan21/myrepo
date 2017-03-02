@@ -1,2 +1,6 @@
 # myrepo
-echo "Hai";
+Hai
+
+Hello 
+
+This is my new file 
